@@ -1,0 +1,7 @@
+h5py
+numpy
+scikit-learn
+torch
+torchdiffeq
+pytorch-lightning
+tensorguard

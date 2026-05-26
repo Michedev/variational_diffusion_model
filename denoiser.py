@@ -1,3 +1,6 @@
+from torch import nn
+import torch
+
 class ImageTransformerDenoiser(nn.Module):
     def __init__(self, in_channels=3, image_size=32, patch_size=4, hidden_dim=256, t_emb_dim=64, num_layers=4):
         super().__init__()
