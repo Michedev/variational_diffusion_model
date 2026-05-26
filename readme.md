@@ -8,7 +8,7 @@ The model trains on images, but it can work with any type of data.
 The implementation includes:
 
 - Likelihood estimation during the sampling process using Hutchinson trace estimator to speed up the trace computation
-- Linear, Cosine and Multivariate Learned noising schedule from MuLAN <!--- Add citation here ---> 
+- Linear, Cosine and Multivariate Learned noising schedule from MuLAN <!-- Add citation here --> 
 - Random Fourier Features in addition to the normal input.
 
 ## Files
